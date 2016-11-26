@@ -1,1 +1,107 @@
-echo
+#EXTM3U
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清1
+http://edge2.everyon.tv:1935/etv2sb/phd10062/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清2
+http://123.108.164.110/etv1sb/phd10497/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清3
+http://edge2.everyon.tv:1935/etv2sb/phd10499/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清4
+http://edge2.everyon.tv:1935/etv2sb/phd10501/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清5
+http://123.108.164.110/etv1sb/phd10765/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清6
+http://123.108.164.110/etv1sb/phd10766/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清7
+http://edge2.everyon.tv:1935/etv2sb/phd10769/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清8
+http://edge2.everyon.tv:1935/etv2sb/phd10771/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清9
+http://edge2.everyon.tv:1935/etv2sb/phd10772/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清10
+http://123.108.164.110/etv1sb/phd10927/playlist.m3u8
+#EXTINF:-1 group-title="成人频道",韩国有码成人高清11
+http://123.108.164.110/etv1sb/phd10928/playlist.m3u8
+#EXTINF:-1 group-title="欧美其他", 欧美裸聊1
+http://178.33.126.213:1935/leved/livesexlatinas/playlist.m3u8
+#EXTINF:-1 group-title="欧美其他", 欧美裸聊3
+http://81.89.48.215:1935/xyz888wkz/xy8/playlist.m3u8
+#EXTINF:-1 group-title="欧美其他", 欧美裸聊4
+http://81.89.48.215:1935/xyz112wkz/xy112_360p/i.m3u8 
+#EXTINF:-1 group-title="欧美其他", 欧美裸聊5
+http://publish.thewebstream.co:1935/cellcast/encoder21/playlist.m3u8 
+#EXTINF:-1 group-title="欧美其他", 欧美裸聊6
+http://publish.thewebstream.co:1935/cellcast/encoder71/playlist.m3u8 
+#EXTINF:-1 group-title="欧美其他", 欧美成人内衣秀
+rtmp://stream.visit-x.tv/vxtv/live_720p
+#EXTINF:-1 group-title="欧美其他", 迈阿密性感采访1
+http://k4.usastreams.com:1935/miamitv/smil:miamitv/chunklist_w732305586_b1550000.m3u8
+#EXTINF:-1 group-title="欧美其他", 迈阿密性感采访2
+http://k4.usastreams.com:1935/miamitvlife/miamitvlife/chunklist_w875058297.m3u8
+EXTINF:-1 group-title="日本", 日欧无码
+http://64.140.160.186:8066/HLS/live/101/index.m3u8?mid=64&pwd=mars
+#EXTINF:-1 group-title="日本", 日本无码
+http://64.140.160.186:8066/HLS/live/102/index.m3u8?mid=64&pwd=mars
+#EXTINF:-1 group-title="日本", 日本薄码
+http://64.140.160.186:8066/HLS/live/103/index.m3u8?mid=64&pwd=mars
+#EXTINF:-1 group-title="日本", 日本薄码
+http://64.140.160.186:8066/HLS/live/201/index.m3u8?mid=64&pwd=mars
+#EXTINF:-1 group-title="日本", 日欧无码
+http://64.140.160.186:8066/HLS/live/202/index.m3u8?mid=64&pwd=mars
+#EXTINF:-1 group-title="日本", 日本无码
+http://64.140.160.186:8066/HLS/live/203/index.m3u8?mid=64&pwd=mars
+#EXTINF:-1 group-title="日本", 潘多拉完美有码HD
+http://64.140.160.186:8066/HLS/live/301/index.m3u8?mid=64&pwd=mars
+#EXTINF:-1 group-title="日本", 潘多拉粉红有码HD
+http://64.140.160.186:8066/HLS/live/302/index.m3u8?mid=64&pwd=mars
+#EXTINF:-1 group-title="日本", 潘多拉天使薄码成人
+http://58.99.33.4:1935/liveedge/live_413_3.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本", 潘多拉天使薄码成人
+http://58.99.33.4:1935/liveedge/live_785_3.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本", 潘多拉宝贝薄码成人
+http://58.99.33.4:1935/liveedge/live_414_3.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本", 潘多拉宝贝薄码成人
+http://58.99.33.4:1935/liveedge/live_786_3.stream/playlist.m3u8
+#EXTINF:-1 group-title="日本", ★韩国04台
+http://123.108.164.75/etv2sb/pld10062/playlist.m3u8
+#EXTINF:-1 group-title="日本", ★韩国06台
+http://123.108.164.75/etv2sb/pld10064/playlist.m3u8
+#EXTINF:-1 group-title="日本", ★playboy
+http://123.108.164.110/etv1sb/pld10497/playlist.m3u8
+#EXTINF:-1 group-title="日本", ★韩国08台
+http://123.108.164.75/etv2sb/pld10499/playlist.m3u8
+#EXTINF:-1 group-title="日本", ★girlsTV
+http://123.108.164.75/etv2sb/pld10501/playlist.m3u8
+#EXTINF:-1 group-title="日本", ★VIKI 19
+http://123.108.164.110/etv1sb/pld10765/playlist.m3u8
+#EXTINF:-1 group-title="日本", ★韩国11台
+http://123.108.164.110/etv1sb/pld10766/playlist.m3u8
+#EXTINF:-1 group-title="日本", ★playy台
+http://123.108.164.75/etv2sb/pld10769/playlist.m3u8
+#EXTINF:-1 group-title="日本", ★THE马
+http://123.108.164.75/etv2sb/pld10771/playlist.m3u8
+#EXTINF:-1 group-title="日本", ★ButGO
+http://123.108.164.75/etv2sb/pld10772/playlist.m3u8
+#EXTINF:-1 group-title="日本", ★韩国19限
+http://123.108.164.110/etv1sb/pld10927/playlist.m3u8
+#EXTINF:-1 group-title="日本", ★Honey HD
+http://123.108.164.110/etv1sb/pld10928/playlist.m3u8
+#EXTINF:-1 group-title="欧美", 15.★Playboy
+http://edge1.everyon.tv/etv1sb/phd10497/playlist.m3u8
+#EXTINF:-1 group-title="欧美", 16.Delight
+http://edge2.everyon.tv/etv2sb/phd10499/playlist.m3u8
+#EXTINF:-1 group-title="日本", 17.Girls TV
+http://edge2.everyon.tv/etv2sb/phd10501/playlist.m3u8
+#EXTINF:-1 group-title="欧美", 18.Viki
+http://edge1.everyon.tv/etv1sb/phd10765/playlist.m3u8
+#EXTINF:-1 group-title="韩国", 19.Mid-Night
+http://edge1.everyon.tv/etv1sb/phd10766/playlist.m3u8
+#EXTINF:-1 group-title="韩国", 20.Playy19+
+http://edge2.everyon.tv/etv2sb/phd10769/playlist.m3u8
+#EXTINF:-1 group-title="韩国", 21.The Yahada
+http://edge2.everyon.tv/etv2sb/phd10771/playlist.m3u8
+#EXTINF:-1 group-title="欧美", 22.BUT GO
+http://edge2.everyon.tv/etv2sb/phd10772/playlist.m3u8
+#EXTINF:-1 group-title="欧美", 23.PentHouse TV
+http://edge1.everyon.tv/etv1sb/phd10927/playlist.m3u8
+#EXTINF:-1 group-title="韩国", 24.Honey HD
+http://edge1.everyon.tv/etv1sb/phd10928/playlist.m3u8
